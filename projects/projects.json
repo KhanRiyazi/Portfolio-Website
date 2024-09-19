@@ -75,18 +75,18 @@
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://khanriyazi.github.io/Rizwan-s-Project/",
+      "code": "https://github.com/KhanRiyazi/Rizwan-s-Project.git"
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "Portfolio Finishing",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "flipkartphp",
     "category": "lamp",
     "links": {
-      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
-      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+      "view": "https://khanriyazi.github.io/Link-Project/",
+      "code": "https://github.com/KhanRiyazi/Link-Project.git"
     }
   },
   {
