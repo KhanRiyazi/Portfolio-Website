@@ -30,13 +30,13 @@
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "name": "AI-Innovations Digital learning",
+    "desc": "Using HTML CSS and JavaScript to change the world.",
     "image": "weatherlyandroid",
     "category": "android",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "code": "https://github.com/KhanRiyazi/Digital-Shala.git"
     }
   },
   {
@@ -90,13 +90,13 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "Zishan Ali portfolio-Website",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "code": "https://github.com/KhanRiyazi/portfolio-responsive-complete.git"
     }
   },
   {
