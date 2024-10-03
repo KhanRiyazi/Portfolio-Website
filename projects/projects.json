@@ -50,13 +50,13 @@
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "name": "My Website",
+    "desc": "To define my work",
     "image": "flipkartmern",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://khanriyazi.github.io/Freelance-Web-Developer-Portfolio-Template/",
+      "code": "https://github.com/KhanRiyazi/Freelance-Web-Developer-Portfolio-Template.git"
     }
   },
   {
@@ -91,11 +91,11 @@
   },
   {
     "name": "Zishan Ali portfolio-Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "desc": "Feedback",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "view": "https://khanriyazi.github.io/portfolio-responsive-complete/",
       "code": "https://github.com/KhanRiyazi/portfolio-responsive-complete.git"
     }
   },
@@ -166,7 +166,7 @@
     "category": "lamp",
     "links": {
       "view": "https://tsfbank.rf.gd",
-      "code": "https://github.com/jigar-sable/TSF-Bank"
+      "code": "https://github.com/KhanRiyazi/TSF-Bank.git"
     }
   },
   {
@@ -256,7 +256,7 @@
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/LinkList",
-      "code": "https://github.com/jigar-sable/LinkList"
+      "code": "https://github.com/KhanRiyazi/LinkList.git"
     }
   },
   {
